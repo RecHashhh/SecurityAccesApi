@@ -96,6 +96,4 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Contacto
-
-- **Tu Nombre** - [tu_email@example.com](mailto:tu_email@example.com)
-- **GitHub**: [tu_usuario](https://github.com/tu_usuario)
+- **GitHub**: [RECHASHH]
